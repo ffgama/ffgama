@@ -10,7 +10,7 @@
 ```javascript
 me = {
   position: "Data Scientist",
-  current_company:"CargoX",
+  current_company:"Zup",
   area: "Computer Science",
   nickname: ["Gama","Fe"],
   preferences: {
